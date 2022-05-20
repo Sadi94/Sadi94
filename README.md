@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Dot Net & full stack development.
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about any tech realted stuff.
-- 📫 How to reach me [Sadi](sourovlab@gmail.com)
+- 📫 How to reach me [\[Sadi\]](sourovlab@gmail.com)
 - 😄 Pronouns He/His
 - ⚡ Fun fact  I spend almost half of a day listening songs every day.
 
