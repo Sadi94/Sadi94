@@ -3,6 +3,7 @@
 - 🔭 Currently I'm am a undergrade student.
 - 🌱 I’m currently learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
+- 📫 How to reach me: sourovlab@gmail.com
 - 😄 Pronouns He/His
 - ⚡ Fun fact  I spend almost half of a day listening songs every day.
 
@@ -32,7 +33,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/sadi-mohammad-47844a182"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "sourovlab@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://accounts.google.com/signin/v2/identifier?service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 ## ❤ Views and Followers
