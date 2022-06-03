@@ -3,7 +3,7 @@
 - 🔭 Currently I'm am a undergrade student.
 - 🌱 I’m currently learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
-- 📫 How to reach me: sourovlab@gmail.com
+- 📫 For any Joruri kotha or Collaboration: sourovlab@gmail.com
 - 😄 Pronouns He/His
 - ⚡ Fun fact  I spend almost half of a day listening songs every day.
 
