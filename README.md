@@ -35,8 +35,6 @@
 <a href = "https://www.linkedin.com/in/sadi-mohammad-47844a182"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:sourovlab@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
-<a href="mailto:sourovlab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-sourovlab@gmail.com-red?style=flat&logo=gmail"></a>
-
 </p>
 
 ## ❤ Views and Followers
