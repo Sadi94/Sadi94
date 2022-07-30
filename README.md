@@ -1,7 +1,7 @@
 ### Hi, I am [Sadi Mohammad](https://github.com/Sadi94)  👋
 
-- 🔭 Currently I'm am a undergrade student [@AIUB](https://www.aiub.edu/).
-- 🌱 I’m currently learning Dot Net & full stack development.
+- 🔭 I'm am a undergrade student [@AIUB](https://www.aiub.edu/).
+- 🌱 I’m learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
 - 📫 For any Joruri kotha or Collaboration(How to reach me): sourovlab@gmail.com
 - 😄 Pronouns He/His
