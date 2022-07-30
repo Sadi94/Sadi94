@@ -5,6 +5,7 @@
 - 💬 Ask me about any tech realted stuff.
 - 📫 For any Joruri kotha or Collaboration(How to reach me): sourovlab@gmail.com
 - 😄 Pronouns He/His
+- (https://www.vecteezy.com/free-vector/portfolio-icon)(https://sadi-portfoli.netlify.app/)
 - ⚡ Fun fact  I spend almost half of a day listening songs every day.
 
 
