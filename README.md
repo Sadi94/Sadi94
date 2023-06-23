@@ -1,6 +1,8 @@
 ### Hi, I am [Sadi Mohammad](https://github.com/Sadi94)  👋
 
-- 🔭 I'm am a undergrade student [@AIUB](https://www.aiub.edu/).
+- [image](https://github.com/Sadi94/Sadi94/assets/85401498/f7891f93-e4a0-40dc-aa7b-229fd5b6e571) Currently works at Bangladesh Meteorological Department, Dhaka
+
+- 🔭 I'm am graduated from [@AIUB](https://www.aiub.edu/).
 - 🌱 I’m learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
 - 📫 For any Joruri kotha or Collaboration(How to reach me): sourovlab@gmail.com
