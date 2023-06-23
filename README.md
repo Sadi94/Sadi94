@@ -4,7 +4,7 @@
 - 🔭 I'm am graduated from [@AIUB](https://www.aiub.edu/).
 - 🌱 I’m learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
-- 📫 For any Joruri kotha or Collaboration(How to reach me): sourovlab@gmail.com
+- 📫 For any Joruri kotha or Collaboration(How to reach me):<a href = "mailto:sourovlab@gmail.com">mail me.</a>
 - 😄 Pronouns He/His
 - ⚡ Fun fact  I spend almost half of a day listening songs every day.
 - 📫 [Portfolio](https://sadi-portfolio.netlify.app/)
