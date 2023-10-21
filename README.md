@@ -1,7 +1,7 @@
 ### Hi, I am [Sadi Mohammad](https://github.com/Sadi94)  👋
 
 - 🔭 Currently works at Bangladesh Meteorological Department, Dhaka
-- 🔭 I'm am graduated from [@AIUB](https://www.aiub.edu/).
+- 🔭 I'm graduated from [@AIUB](https://www.aiub.edu/).
 - 🌱 I’m learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
 - 📫 For any Joruri kotha or Collaboration(How to reach me):<a href = "mailto:sourovlab@gmail.com">mail me.</a>
