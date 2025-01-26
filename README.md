@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/Sadi94/github-readme-activity-graph">
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=Sadi94">
   <img alt="Sadi94's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sadi94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
 
