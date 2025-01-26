@@ -20,7 +20,9 @@
 
 <br/>
 <br/>
-[![Sadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadi94)](https://github.com/Sadi94/github-readme-activity-graph)
+<a href="https://github.com/Sadi94/github-readme-activity-graph">
+  <img alt="Sadi94's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Sadi94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
 
 <br/>
 <br/>
