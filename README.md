@@ -7,7 +7,7 @@
 - 📫 For any Joruri kotha or Collaboration(How to reach me):<a href = "mailto:sourovlab@gmail.com">mail me.</a>
 - 😄 Pronouns He/His
 - ⚡ Fun fact  I spend almost half of a day listening songs every day.
-- 📫 [Portfolio](https://sadi-portfolio.netlify.app/)
+- 📫 [Portfolio](https://sadi-cs.netlify.app/)
 
 
 ## 📊 My Github Stats
