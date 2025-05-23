@@ -1,6 +1,6 @@
 ### Hi, I am [Sadi Mohammad](https://github.com/Sadi94)  👋
 
-- 🔭 Currently works at Bangladesh Meteorological Department, Dhaka
+- 🔭 Currently works at Bangladesh, Dhaka
 - 🔭 I'm graduated from [@AIUB](https://www.aiub.edu/).
 - 🌱 I’m learning Dot Net & full stack development.
 - 💬 Ask me about any tech realted stuff.
